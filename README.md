@@ -6,9 +6,10 @@ I'm How Wei Shan, a student who have a big-big ambition to be a front-end progra
 
 - Name: How Wei Shan
 - Name (Chinese): 侯韦杉
-- Age: 16 Years Old
+- Internet Name: Slimer10 / Slimer0210 / Slimer210
+- Where I live: Johor Bahru, Johore, Malaysia
 - Current occupation: Full-time student
-- Hobby: Listening to Music, Codingggg
+- Hobby: Listening to Music, Coding, Arduino Projects
 - Ambition: Front-end Developer
 
 ## When I start Programming?
@@ -38,6 +39,16 @@ As explore continues, I found my final target - Front-end designer. And start fr
 At the same time, I very regret that I joined Science stream. Seriously science is a nightmare for me, it totally juiced all my programming time.
 
 *To be continued...*
+
+# About my portfolio - Project Slimer
+
+### Why it's called "Project Slimer"?
+
+As my Internet name - Slimer, calling it as Project Slimer is more like a character for me. For the story of the name, Slimer, I'm gonna write another pages for it.
+
+### What will be included in your portfolio?
+
+My projects, skill lists, blog and many more.
 
 ## How to reach with me?
 
