@@ -30,11 +30,11 @@ In the end if the year, the pandemic finally falls to a safe level. That means t
 
 ### 2021 - Years for public exam
 
-This year, I have some of my free time for coding. So in this year, instead of doing projects, I decided to explore more on a variety types of programming jobs. Since I have to sit for my public exam, I have to be more concentrate on study, and I got forced to stop coding for a while.
+This year, I have some of my free time for coding. So in this year, instead of doing projects, I decided to explore more on a variety types of programming jobs. Since I have to sit for my public exam, I have to be more concentrate on study, and I got forced to shrink my coding time.
 
 ### 2022 - The year that defined my target
 
-As explore continues, I found my final target - Front-end designer. And start from this year, I will be more concentrate on front end stuff. At the same time, I started my first (full) project - ManaMetal (check for ManaWeb, ManaDocs on my repo). 
+As explore continues, I found my final target - Front-end developer. And start from this year, I will be more concentrate on front end stuff. At the same time, I started my first (full) project - ManaMetal (check for ManaWeb, ManaDocs on my repo). 
 
 At the same time, I very regret that I joined Science stream. Seriously science is a nightmare for me, it totally juiced all my programming time.
 
@@ -50,14 +50,14 @@ As my Internet name - Slimer, calling it as Project Slimer is more like a charac
 
 My projects, skill lists, blog and many more.
 
-## How to reach with me?
+# How to reach with me?
 
 - Discord: Slimer0210#6409
 - Facebook/Messenger: howweishan0210
 - Email: howweishan@gmail.com (for general stuff)
 - Email: howweishan0210@outlook.com (for collabs, jobs)
 
-## Ask me about...
+# Ask me about...
 
 Q: How to ask you something?
 > A: Kinda contact with me on the contact method above or make an issue to this repo.
