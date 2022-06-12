@@ -7,10 +7,10 @@ I'm How Wei Shan, a student who have a big-big ambition to be a front-end progra
 - Name: How Wei Shan
 - Name (Chinese): 侯韦杉
 - Internet Name: Slimer10 / Slimer0210 / Slimer210
-- Where I live: Johor Bahru, Johore, Malaysia
-- Current occupation: Full-time student
-- Hobby: Listening to Music, Coding, Arduino Projects
-- Ambition: Front-end Developer
+- Where I live: Johor Bahru, Johore, Malaysia 🇲🇾
+- Current occupation: Full-time student 👨‍🎓
+- Hobby: Listening to Music🎶, Coding⌨, Arduino Projects⚙
+- Ambition: Front-end Developer🖥
 
 ## When I start Programming?
 
@@ -50,14 +50,14 @@ As my Internet name - Slimer, calling it as Project Slimer is more like a charac
 
 My projects, skill lists, blog and many more.
 
-# How to reach with me?
+# How to reach with me? ✉
 
 - Discord: Slimer0210#6409
 - Facebook/Messenger: howweishan0210
 - Email: howweishan@gmail.com (for general stuff)
 - Email: howweishan0210@outlook.com (for collabs, jobs)
 
-# Ask me about...
+# Ask me about...💬
 
 Q: How to ask you something?
 > A: Kinda contact with me on the contact method above or make an issue to this repo.
