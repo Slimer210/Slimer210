@@ -12,15 +12,15 @@ I'm How Wei Shan, a student who have a big-big ambition to be a front-end progra
 - Hobby: Listening to Music🎶, Coding⌨, Arduino Projects⚙
 - Ambition: Front-end Developer🖥
 
-## When I start Programming?
+## When did I start Programming?
 
-This is a long story... Back into 2020 when the largest worldwide pandemic - COVID-19 broke out. On 16th of March, the government of Malaysia announced for a full lockdown (known as Movement Control Order) to control the spread of the coronavirus.
+This is a long story... Back into 2020 when the largest worldwide pandemic - COVID-19 broke out. On 16th of March, 2020, the government of Malaysia announced a full lockdown (known as Movement Control Order) to control the spread of the coronavirus.
 
-This is when my programming journey begins. When the lockdown time keeps extending, from 14 days to 90 days, I literally got mad as everyday I was just playing Minecraft besides studying.
+This is when my programming journey begins. When the lockdown period keeps extending, from 14 days to 90 days, I literally got mad as everyday I was just playing Minecraft besides studying in front of my screen.
 
-One day, when I was watching some of the random videos from YouTube, I discovered my first programming language - Python (honestly mostly everyone starts from here). I quickly fell in love on the world of programming. Seriously, school lessons really boring and the most reliable way to relieve my boreness is to grind projects.
+One day, when I was watching some of the random videos from YouTube, I discovered my first programming language - Python (honestly mostly everyone starts from here). Python had been accompanied with me for a very long time until I wish to nove to frontend developing. Since the start of my programming journey, I prefer ignore my school online lessons as it is just a waste of time (honestly no one can be really concentrate in online class).
 
-Soon in July, I got introduced about Github, where it is a very perfect place for me to store my code (instead of my 16gb pendrive). Since the born of Github on my brain, I started my first huge project - a music player. In the process of making the project, I learnt more than those YouTube courses. Also, making projects really made me fun - as I'm doing a thing that no one could do it for themselves.
+Soon in July, I got introduced about Github, where it is a very perfect place for me to store my code (instead of my 16gb pendrive). Since the born of Github on my brain, I started my first huge project - a music player. In the process of making the project, I grinded more libraries, more knowledge and many more than just a project. Also, making projects really made me fun - as I'm doing a thing that no one could do it for themselves.
 
 At that year, instead of a prison year, it's the most for me. I never wasted anything along the lockdown period, and thanks for the lockdown, I have my life target.
 
