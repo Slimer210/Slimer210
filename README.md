@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-I'm How Wei Shan, a student who have a big-big ambition to be a front-end programmer.
+I'm How Wei Shan, a student who have an ambition to be a front-end programmer.
 
 ## Know more about me!
 
