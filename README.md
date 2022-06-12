@@ -40,6 +40,15 @@ At the same time, I very regret that I joined Science stream. Seriously science 
 
 *To be continued...*
 
+# My Contribs
+
+(im lazy to design it)
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Slimer210&theme=dark)](https://git.io/streak-stats)
+
+![Slimer210's github activity graph](https://activity-graph.herokuapp.com/graph?username=Slimer210)
+
+
 # About my portfolio - Project Slimer
 
 ### Why it's called "Project Slimer"?
