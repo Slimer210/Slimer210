@@ -1,8 +1,8 @@
-# Hi there! 👋
+<h1 align="center">Hi there! Hope you have a nice day! 👋</h1>
 
-I'm How Wei Shan, a student who have an ambition to be a front-end programmer.
+<p align="center">I'm How Wei Shan, a normal student but have a big wishes for the future.<p>
 
-## Know more about me!
+## ℹ Know more about me!
 
 - Name: How Wei Shan
 - Name (Chinese): 侯韦杉
@@ -12,7 +12,7 @@ I'm How Wei Shan, a student who have an ambition to be a front-end programmer.
 - Hobby: Listening to Music🎶, Coding⌨, Arduino Projects⚙
 - Ambition: Front-end Developer🖥
 
-## When did I start Programming?
+## ⌨ When did I start Programming?
 
 This is a long story... Back into 2020 when the largest worldwide pandemic - COVID-19 broke out. On 16th of March, 2020, the government of Malaysia announced a full lockdown (known as Movement Control Order) to control the spread of the coronavirus.
 
@@ -24,15 +24,15 @@ Soon in July, I got introduced about Github, where it is a very perfect place fo
 
 At that year, instead of a prison year, it's the most for me. I never wasted anything along the lockdown period, and thanks for the lockdown, I have my life target.
 
-### And then?
+### 🕑 And then?
 
 In the end if the year, the pandemic finally falls to a safe level. That means that I have to go back to school, sitting on the class and learning on those useless stuff (honestly school just wasting my precious time). Start from that time, I'm too tired for programming, and I stopped for a long time.
 
-### 2021 - Years for public exam
+### 🕑 2021 - Years for public exam
 
 This year, I have some of my free time for coding. So in this year, instead of doing projects, I decided to explore more on a variety types of programming jobs. Since I have to sit for my public exam, I have to be more concentrate on study, and I got forced to shrink my coding time.
 
-### 2022 - The year that defined my target
+### 🕑 2022 - The year that defined my target
 
 As explore continues, I found my final target - Front-end developer. And start from this year, I will be more concentrate on front end stuff. At the same time, I started my first (full) project - ManaMetal (check for ManaWeb, ManaDocs on my repo). 
 
@@ -40,7 +40,7 @@ At the same time, I very regret that I joined Science stream. Seriously science 
 
 *To be continued...*
 
-# My Contribs
+# 📊 My Contribs In a Glance
 
 (im lazy to design it)
 
