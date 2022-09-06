@@ -9,7 +9,7 @@
 - Web Name (which you can easily find me on web): Slimer10 / Slimer0210 / Slimer210
 - Where I live: Johor Bahru, Johore, Malaysia 🇲🇾
 - Current occupation: Full-time student 👨‍🎓
-- Hobby: Listening to Music🎶, Coding⌨, Arduino Projects⚙
+- Hobby: Listening to Music🎶, Coding⌨
 - Ambition: Front-end Developer🖥
 
 ## ⌨ When did I start Programming?
@@ -23,10 +23,6 @@ One day, when I was watching some of the random videos from YouTube, I discovere
 Soon in July, I got introduced about Github, where it is a very perfect place for me to store my code (instead of my 16gb pendrive). Since the born of Github on my brain, I started my first huge project - a music player. In the process of making the project, I grinded more libraries, more knowledge and many more than just a project. Also, making projects really made me fun - as I'm doing a thing that no one could do it for themselves.
 
 At that year, instead of a prison year, it's the most for me. I never wasted anything along the lockdown period, and thanks for the lockdown, I have my life target.
-
-### 🕑 And then?
-
-In the end if the year, the pandemic finally falls to a safe level. That means that I have to go back to school, sitting on the class and learning on those useless stuff (honestly school just wasting my precious time). Start from that time, I'm too tired for programming, and I stopped for a long time.
 
 ### 🕑 2021 - Years for public exam
 
