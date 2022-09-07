@@ -36,6 +36,8 @@ At the same time, I very regret that I joined Science stream. Seriously science 
 software programming.
 ### 🏆 Competitive Programming - NSSPC 2022
 
+![TEAM MCCGA 2022 & OUR FRIENDS](12.jpg)
+
 Actually in first I don't know too much about competitive programming, but after this nationwide competition I made a very new commiitee and also new friends and new experiences. I'm really enjoing myself along the journey. And also this competition opened a very new route for me - the competitive programming route. But I still wish to give my priority for 
 
 *To be continued...*
