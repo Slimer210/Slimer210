@@ -33,6 +33,10 @@ This year, I have some of my free time for coding. So in this year, instead of d
 As explore continues, I found my final target - Front-end developer. And start from this year, I will be more concentrate on front end stuff. At the same time, I started my first (full) project - ManaMetal (check for ManaWeb, ManaDocs on my repo). 
 
 At the same time, I very regret that I joined Science stream. Seriously science is a nightmare for me, it totally juiced all my programming time.
+software programming.
+### 🏆 Competitive Programming - NSSPC 2022
+
+Actually in first I don't know too much about competitive programming, but after this nationwide competition I made a very new commiitee and also new friends and new experiences. I'm really enjoing myself along the journey. And also this competition opened a very new route for me - the competitive programming route. But I still wish to give my priority for 
 
 *To be continued...*
 
