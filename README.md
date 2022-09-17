@@ -6,7 +6,7 @@
 
 - Name: How Wei Shan
 - Name (Chinese): 侯韦杉
-- Web Name (which you can easily find me on web): Slimer10 / Slimer0210 / Slimer210
+- Web Name (which you can easily find me on web): Slimer10 / Slimer0210
 - Where I live: Johor Bahru, Johore, Malaysia 🇲🇾
 - Current occupation: Full-time student 👨‍🎓
 - Hobby: Listening to Music🎶, Coding⌨
