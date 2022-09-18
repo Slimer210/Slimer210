@@ -44,8 +44,6 @@ Actually in first I don't know too much about competitive programming, but after
 
 # 📊 My Contribs In a Glance
 
-(im lazy to design it)
-
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Slimer210&theme=dark)](https://git.io/streak-stats)
 
 [![Slimer210's github activity graph](https://activity-graph.herokuapp.com/graph?username=Slimer210&bg_color=1a1200&color=ffb300&line=ffb700&point=ffcc00&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
