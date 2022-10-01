@@ -1,6 +1,6 @@
 <h1 align="center">Hi there! Hope you have a nice day! 👋</h1>
 
-<p align="center">I'm How Wei Shan, a normal student but have a big wishes for the future.<p>
+<p align="center">I'm How Wei Shan, you can call me Slimer.<p>
 
 ## ℹ Know more about me!
 
