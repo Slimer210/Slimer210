@@ -2,7 +2,7 @@
 
 <p align="center">I'm How Wei Shan, you can call me Slimer.<p>
 
-## ℹ Know more about me!
+# ℹ Know more about me!
 
 - Name: How Wei Shan
 - Name (Chinese): 侯韦杉
@@ -48,26 +48,24 @@ Actually in first I don't know too much about competitive programming, but after
 
 [![Slimer210's github activity graph](https://activity-graph.herokuapp.com/graph?username=Slimer210&bg_color=1a1200&color=ffb300&line=ffb700&point=ffcc00&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
+# My coding story
 
-# About my portfolio - Project Slimer
+Start from 2020, I involved myself in the world of programming to kill my time especially on lockdown period. After several months of programming, I found myself interesting in front-end developing.
 
-### Why it's called "Project Slimer"?
+In 2022, I was luckily to be introduced to the competitive programming. Because of this, I got a larger programming community and have a precious chance to represent school.
 
-As my Internet name - Slimer, calling it as Project Slimer is more like a character for me. For the story of the name, Slimer, I'm gonna write another pages for it.
+[Read the Full Story Here!](https://example.com/)
 
-### What will be included in your portfolio?
+# My 2023 Target
 
-My projects, skill lists, blog and many more.
+I don't have any ideas yet. Maybe give me some?
 
-# How to reach with me? ✉
+# Misc
+
+## How to reach with me? ✉
 
 - Discord: Slimer0210#6409
-- Facebook/Messenger: howweishan0210
-- Email: howweishan@gmail.com (for general stuff)
-- Email: howweishan0210@outlook.com (for collabs, jobs)
-
-# Ask me about...💬
-
-Q: How to ask you something?
-> A: Kinda contact with me on the contact method above or make an issue to this repo.
+- Facebook/Messenger/Instagram: howweishan0210
+- Email: howweishan@gmail.com (for general enquires & work)
+- Email: howweishan0210@outlook.com (for collabs, job offers)
 
