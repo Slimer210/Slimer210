@@ -1,20 +1,33 @@
-<h1 align="center">Hi there! Hope you have a nice day! 👋</h1>
+<h1 align="center">Hi there! I'm Slimer!👋</h1>
 
-<p align="center">I'm How Wei Shan, you can call me Slimer.<p>
+<p align="center">I'm How Wei Shan (aka. Slimer), an amateur programmer who seek for a place for creativity.<p>
+
+![Banner](./banner_main.png/)
 
 # ℹ Know more about me!
 
-- Name: How Wei Shan
-- Name (Chinese): 侯韦杉
-- Web Name (which you can easily find me on web): Slimer10 / Slimer0210
-- Where I live: Johor Bahru, Johore, Malaysia 🇲🇾
-- Current occupation: Full-time student 👨‍🎓
-- Hobby: Listening to Music🎶, Coding⌨
-- Ambition: Front-end Developer🖥
+<table border="0" align="center">
+ <tr>
+    <td>
+    <div>
+      - Name: How Wei Shan <br />
+      - Name (Chinese): 侯韦杉 <br />
+      - Web Name (which you can easily find me on web): Slimer10 / Slimer0210 <br />
+      - Where I live: Johor Bahru, Johore, Malaysia 🇲🇾 <br />
+      - Current occupation: Full-time student 👨‍🎓 <br />
+      - Hobby: Listening to Music🎶, Coding⌨ <br />
+      - Ambition: Front-end Developer🖥 <br />
+     </div>
+     </td>
+ </tr>
+</table>
+
+
+
 
 # 📊 My Contribs In a Glance
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Slimer210&theme=dark)](https://git.io/streak-stats)
+![Slimer210's GitHub stats](https://github-readme-stats.vercel.app/api?username=Slimer210&show_icons=true&theme=swift)
 
 [![Slimer210's github activity graph](https://activity-graph.herokuapp.com/graph?username=Slimer210&bg_color=1a1200&color=ffb300&line=ffb700&point=ffcc00&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
