@@ -1,6 +1,6 @@
 <h1 align="center">Hi there! I'm Slimer!👋</h1>
 
-<p align="center">I'm How Wei Shan (aka. Slimer), an amateur programmer who seek for a place for creativity.<p>
+<p align="center">I'm How Wei Shan (aka. Slimer), a student who study at Malaysia secondary school.<p>
 
 ![Banner](./banner_main.png/)
 
@@ -12,7 +12,7 @@
     <div>
       - Name: How Wei Shan <br />
       - Name (Chinese): 侯韦杉 <br />
-      - Web Name (which you can easily find me on web): Slimer10 / Slimer0210 <br />
+      - WebName: Slimer10 / Slimer0210 <br />
       - Where I live: Johor Bahru, Johore, Malaysia 🇲🇾 <br />
       - Current occupation: Full-time student 👨‍🎓 <br />
       - Hobby: Listening to Music🎶, Coding⌨ <br />
@@ -25,7 +25,7 @@
 
 
 
-# 📊 My Contribs In a Glance
+# 📊 My Contribs
 
 ![Slimer210's GitHub stats](https://github-readme-stats.vercel.app/api?username=Slimer210&show_icons=true&theme=swift)
 
