@@ -1,3 +1,12 @@
+```
+Words for you:
+Either you saw this or not, just to tell you that good luck and hope you will mentally grow up one day.
+Thanks for being one of my longest friend but I think this is the end.
+Farewell. 好聚好散。
+
+--Slimer
+```
+
 <h1 align="center">Hi there! I'm Slimer!👋</h1>
 
 <p align="center">I'm How Wei Shan (aka. Slimer), a student who study at Malaysia secondary school.<p>
