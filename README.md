@@ -4,7 +4,7 @@
 
 <p align="center">I'm How Wei Shan (aka. Slimer), a student who study at Malaysia secondary school.<p>
 
-![Banner](./banner_main.png/)
+![Banner](./banner_main.jpg/)
 
 # ℹ Know more about me!
 
