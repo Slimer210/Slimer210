@@ -6,26 +6,28 @@
 
 ![Banner](./banner_main.jpg/)
 
-# ℹ Know more about me!
+# ℹ Know More About Me!
 
 <table border="0" align="center">
  <tr>
     <td>
     <div>
-      - Name: How Wei Shan <br />
-      - Name (Chinese): 侯韦杉 <br />
-      - WebName: Slimer10 / Slimer0210 <br />
+      - Name: How Wei Shan (侯韦杉) <br />
+      - Web Name: Slimer10 / Slimer0210 <br />
       - Where I live: Johor Bahru, Johore, Malaysia 🇲🇾 <br />
       - Current occupation: Full-time student 👨‍🎓 <br />
-      - Hobby: Listening to Music🎶, Coding⌨ <br />
+      - Hobby: Music🎶, Coding⌨, Photography📸 <br />
       - Ambition: Front-end Developer🖥 <br />
      </div>
      </td>
  </tr>
 </table>
 
+Coding is my life-saver, or better known as a life guide. In lockdown, while I was wasting my time in Minecraft, coding change me - it let me find myself another way for my life instead of studying. 
 
+Starting from basic programming (using Python), and then front-end development (nodeJS), and now competitive programming (C++), I learnt a lot more than just coding - new friendcircle, new community, and also knew about what friend should I avoid.
 
+In 2022, competitive programming brought me to another diversity...although I did less effort. It totally change me, bringing me more confidences and be brave. Also, it brings me motivations in my life, plus making me more self-disciplined.
 
 # 📊 My Contribs
 
@@ -33,21 +35,13 @@
 
 [![Slimer210's github activity graph](https://activity-graph.herokuapp.com/graph?username=Slimer210&bg_color=1a1200&color=ffb300&line=ffb700&point=ffcc00&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-# My coding story
-
-Start from 2020, I involved myself in the world of programming to kill my time especially on lockdown period. After several months of programming, I found myself interesting in front-end developing.
-
-In 2022, I was luckily to be introduced to the competitive programming. Because of this, I got a larger programming community and have a precious chance to represent school.
-
-[Read the Full Story Here!](https://github.com/Slimer210/shitposting/blob/main/coding%20stories/My%20Coding%20Journey.md)
-
 # My 2023 Target
 
-I don't have any ideas yet. Maybe give me some?
+In 2023, as per promise, I will attend another competitive programming challenges again. And hopefully this time I can score better than last year. Sadly, I'm approaching my SPM exam and I think I won't have adequate time for preparing contest again.
 
-# Misc
+Nevertheless, I will still put my full effort on every tasks and responsibilities as a student (or amateur programmer). In future, regardless how much competitive programming help me, I think I will have another route to go.
 
-## How to reach with me? ✉
+# Contact Me ✉
 
 - Discord: Slimer0210#6409
 - Facebook/Messenger/Instagram: howweishan0210
