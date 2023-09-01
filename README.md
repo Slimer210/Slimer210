@@ -22,7 +22,6 @@
      </td>
  </tr>
 </table>
-
 Coding is my life-saver, or better known as a life guide. In lockdown, while I was wasting my time in Minecraft, coding change me - it let me find myself another way for my life instead of studying. 
 
 Starting from basic programming (using Python), and then front-end development (nodeJS), and now competitive programming (C++), I learnt a lot more than just coding - new friendcircle, new community, and also knew about what friend should I avoid.
