@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi there! I'm Slimer!👋</h1>
 
-<p align="center">I'm How Wei Shan (aka. Slimer), a student who study at Malaysia secondary school.<p>
+<p align="center">I'm How Wei Shan (aka. Slimer), a student who're currently studying at a Malaysia secondary school.<p>
 
 ![Banner](./banner.png/)
 
