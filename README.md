@@ -32,12 +32,6 @@ In 2022, competitive programming brought me to another diversity...although I di
 
 [![Slimer210's github activity graph](https://activity-graph.herokuapp.com/graph?username=Slimer210&bg_color=1a1200&color=ffb300&line=ffb700&point=ffcc00&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-# My 2023 Target
-
-In 2023, as per promise, I will attend another competitive programming challenges again. And hopefully this time I can score better than last year. Sadly, I'm approaching my SPM exam and I think I won't have adequate time for preparing contest again.
-
-Nevertheless, I will still put my full effort on every tasks and responsibilities as a student (or amateur programmer). In future, regardless how much competitive programming help me, I think I will have another route to go.
-
 # Contact Me ✉
 
 - Discord: Slimer0210#6409
